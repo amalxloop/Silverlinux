@@ -6,11 +6,11 @@
 █████▀ ██ ██▄▄▄ ▀█▀  ██▄▄▄ ██ ██ ██████ ██ ██ ▀██ ▀███▀ ██ ██ 
 ```
 
-A security-focused Linux distribution based on Debian Bookworm with KDE Plasma desktop and 350+ pre-installed security tools.
+A security-focused Linux distribution based on Debian Bookworm with KDE Plasma desktop and minimal Distribution Debain But The Arch Way
 
 ## Features
 
-- **Security Tools**: Pre-installed with 350+ security tools including:
+- **Security Tools**: Post-Install with 350+ security tools including:
   - Network scanning (nmap, netcat, socat)
   - Wireless auditing (aircrack-ng, reaver, bully, hashcat)
   - Forensics (binwalk, foremost, volatility3, radare2, ghidra)
@@ -18,6 +18,7 @@ A security-focused Linux distribution based on Debian Bookworm with KDE Plasma d
   - Web testing (nikto, dirb, gobuster, wfuzz, sqlmap)
   - Exploitation (Metasploit, searchsploit)
   - Privacy (tor, macchanger, cryptsetup)
+Post Install Via Script 
 
 - **Desktop Environment**: KDE Plasma
 - **Base**: Debian Bookworm
@@ -46,7 +47,7 @@ sudo ./build-complete.sh
 ## Usage
 
 - Run `neowofetch` to see system info
-- Run `hollywood` for terminal hacker aesthetics
+
 
 ## System Requirements
 
@@ -54,10 +55,6 @@ sudo ./build-complete.sh
 - 25GB+ free disk space for ISO build
 - 64-bit processor
 
-## Default Credentials
-
-- **User**: silver
-- **Password**: silver
 
 ## License
 
