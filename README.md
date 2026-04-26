@@ -61,7 +61,7 @@ sudo ./build-complete.sh
 
 ## License
 
-MIT License
+GPLv3 License
 
 ## Author
 
